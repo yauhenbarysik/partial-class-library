@@ -1,0 +1,20 @@
+{
+  "name": "partial-class-library",
+  "version": "0.0.1",
+  "description": "Experimental Partial Class realization via Mixins, acts like sort of syntax sugar for it to create Partial Classes ... weeeell, sort of Partial Classes :)",
+  "main": "dist/partialClass.js",
+  "types": "dist/partialClass.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "partial-classes",
+    "typescript",
+    "javascript"
+  ],
+  "author": "Yauhen Barysik",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
