@@ -2,6 +2,10 @@
   "name": "partial-class-library",
   "version": "0.0.1",
   "description": "Experimental Partial Class realization via Mixins, acts like sort of syntax sugar for it to create Partial Classes ... weeeell, sort of Partial Classes :)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yauhenbarysik/partial-class-library.git"
+  },
   "main": "dist/partialClass.js",
   "types": "dist/partialClass.d.ts",
   "scripts": {
