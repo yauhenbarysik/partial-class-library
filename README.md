@@ -2,7 +2,7 @@
 
 I don't know what about you, but I always struggled **lack of Partial Classes in TypeScript** like in C# i.e. 
 <br>
-While both languages have Microsoft roots for some reason MS folks didn't add (and reject to add) Partial Classes into TypeScript. Thow, you can use a bit spiky scary thing, called **"Mixins"** from JavaScript itself for similar functionality. So I decided to build some sort of **"Syntax Sugar Frankenstein"** over it to have eased up way to use mixins for combining multiple classes under custom name :)
+While both languages have Microsoft roots for some reason MS folks didn't add (and reject to add) Partial Classes into TypeScript. Yet, still, you can use a bit spiky scary thing, called **"Mixins"** from JavaScript itself for similar functionality. So I decided to build some sort of **"Syntax Sugar Frankenstein"** over it to have eased up way to use mixins for combining multiple classes under custom name :)
 
 # Usage
 You can find usage examples apparantly in `examples` folder ;-)
